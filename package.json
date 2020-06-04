@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-navigation/native": "^5.4.3",
+    "@react-navigation/stack": "^5.4.1",
+    "expo": "^37.0.12"
+  }
+}
